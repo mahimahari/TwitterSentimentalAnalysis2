@@ -26,9 +26,6 @@ You can also check a demo website :point_right: [click here](http://hitalfashion
 3 directories, 12 files
 ```
 
-# Technology used in Project :hotsprings:
-<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Flask.png" width="300">     <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">      <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/tweepy.webp" width="200">     <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/textblob.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/wordcloud.png" width="300">
-
 
 
 # Disclaimer :skull_and_crossbones:
@@ -63,7 +60,7 @@ def sentiment():
 
 
 ## ScreenShot :camera_flash:
-![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/blob/master/images/3.png)
-![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/blob/master/images/4.png)
-![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/blob/master/images/5.png)
+![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/images/3.png)
+![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/images/4.png)
+![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/images/5.png)
 
