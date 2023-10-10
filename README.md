@@ -60,7 +60,7 @@ def sentiment():
 
 
 ## ScreenShot :camera_flash:
-![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/images/3.png)
-![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/images/4.png)
-![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/images/5.png)
+![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/3.png)
+![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/4.png)
+![](https://github.com/mahimahari/TwitterSentimentalAnalysis2/5.png)
 
